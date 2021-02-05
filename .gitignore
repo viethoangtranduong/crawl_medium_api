@@ -5,4 +5,4 @@
 !.elasticbeanstalk/*.global.yml
 
 # venv
-news_reader
+crawl_medium
